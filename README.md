@@ -20,6 +20,7 @@ To begin using the WooCommerce Promoted Product plugin, please follow the steps 
 ### Demo
 
 Login to your WordPress Admin panel using the provided credentials:  
+
 **URL:** [https://domamo.com.br/progressus/wp-admin](https://domamo.com.br/progressus/wp-admin)  
 **Username:** progressus  
 **Password:** MjkBBNGYCE0XKq2f%XJ79XQ6
