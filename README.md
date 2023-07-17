@@ -26,6 +26,7 @@ Front-end instructions:
 If there is a product set as "promoted," display a full width div at the bottom of the site's header with this format:
 
 [Promoted title from backend]: [product title ¥| custom title]
+
 There can be only one active promoted product at a time, which should be the product that was activated last.
 
 ## Getting Started
