@@ -43,7 +43,7 @@ To begin using the WooCommerce Promoted Product plugin, please follow the steps 
 1. Activate the WooCommerce plugin if it is not already activated.
 2. Install and activate the WooCommerce Promoted Products plugin.
 
-### How to use it
+### How it works
 
 **Frontend #1:** [https://www.loom.com/share/bf7baf28e65b487c9c86fcc4d6591f3a](https://www.loom.com/share/bf7baf28e65b487c9c86fcc4d6591f3a)
 
