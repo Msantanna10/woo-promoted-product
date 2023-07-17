@@ -45,11 +45,9 @@ To begin using the WooCommerce Promoted Product plugin, please follow the steps 
 
 ### How to use it
 
-**Frontend #1:** [Link to Frontend #1](https://www.loom.com/share/bf7baf28e65b487c9c86fcc4d6591f3a)
-
-**Frontend #2:** [Link to Frontend #2](https://www.loom.com/share/75486e89918d4a79a8f3267516a6413d)
-
-**Code:** [Link to Code](https://www.loom.com/share/0e1083f7d3d140918846613f416e5394)
+**Frontend #1:** [https://www.loom.com/share/bf7baf28e65b487c9c86fcc4d6591f3a](https://www.loom.com/share/bf7baf28e65b487c9c86fcc4d6591f3a)
+**Frontend #2:** [https://www.loom.com/share/75486e89918d4a79a8f3267516a6413d](https://www.loom.com/share/75486e89918d4a79a8f3267516a6413d)
+**Code:** [https://www.loom.com/share/0e1083f7d3d140918846613f416e5394](https://www.loom.com/share/0e1083f7d3d140918846613f416e5394)
 
 ### Demo
 
